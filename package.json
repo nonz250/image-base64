@@ -1,5 +1,5 @@
 {
-  "name": "image-base64",
+  "name": "@nonz250/image-base64",
   "version": "1.0.0",
   "description": "Convert images to base64 strings.",
   "type": "module",
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/nonz250/image-base64.git"
   },
-  "author": "",
+  "author": "nonz250",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nonz250/image-base64/issues"
@@ -25,5 +25,8 @@
     "cac": "^6.7.12",
     "chalk": "^4.1.2",
     "clipboardy": "^3.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
