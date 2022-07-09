@@ -1,6 +1,6 @@
 {
   "name": "@nonz250/image-base64",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert images to base64 strings.",
   "type": "module",
   "bin": {
