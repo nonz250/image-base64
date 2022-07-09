@@ -18,7 +18,7 @@
   "homepage": "https://github.com/nonz250/image-base64#readme",
   "dependencies": {
     "base64-js": "^1.5.1",
-    "cac": "^6.7.12"
+    "cac": "^6.7.12",
+    "chalk": "^4.1.2"
   }
 }
-
