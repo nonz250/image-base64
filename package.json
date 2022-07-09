@@ -1,0 +1,22 @@
+{
+  "name": "image-base64",
+  "version": "1.0.0",
+  "description": "Convert images to base64 strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nonz250/image-base64.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nonz250/image-base64/issues"
+  },
+  "homepage": "https://github.com/nonz250/image-base64#readme",
+  "dependencies": {
+    "base64-js": "^1.5.1"
+  }
+}
