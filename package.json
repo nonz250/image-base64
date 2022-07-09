@@ -2,6 +2,10 @@
   "name": "image-base64",
   "version": "1.0.0",
   "description": "Convert images to base64 strings.",
+  "type": "module",
+  "bin": {
+    "image-base64": "index.js"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
